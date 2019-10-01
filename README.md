@@ -2,9 +2,7 @@
 ## ℹ️ Project information
 - **Project Name**: ZapSure
 - **Short Project Description**: _A ML based insurance app which makes claiming insurance a task of seconds_
-- **Team ID**:HX019
-- **Team Name**:Psifrous
-- **Team Members**: _Naman Bansal @psifrous, Swapnil Panwala @panwalas, Rushil Goomer @R-Goomer_
+- **Team Members**: _Naman Bansal @psifrous, Swapnil Panwala @panwalas, Akshita Mehta @MehtaAkshita
 - **Repository Link**: https://github.com/psifrous/Zapsure
 - **Labels**: influence the masses,android, ML, image processing, AWS, CNN, Deep Learning
 
@@ -29,7 +27,4 @@ As technology moves ahead, so will we Zapsure will be soon including Health Insu
 
 ![Moderately Damaged Car](https://github.com/psifrous/Zapsure/blob/master/outputs/4.PNG)
 
-
-
-🔥This project was made for HaXplore hackathon held at IIT BHU
 
